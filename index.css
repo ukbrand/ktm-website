@@ -1,0 +1,178 @@
+.only_img{
+
+	border: 2px solid black;
+	height: 700px;
+	width: 100%;
+	background-image: url('21.jpg');
+	background-size: cover;
+	object-fit: ;
+}
+
+li{
+	display: inline-block;
+	margin-left: 20px;
+	font-weight: 600;
+	position: relative;
+	right: 20px;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 25px;
+
+}
+
+ul{
+
+	margin-left: 640px;
+}
+
+.image{
+
+	height: 400px;
+	width: 40%;
+	border: 2px solid black;
+	background-image: url('10.jpg');
+	background-size: cover;
+
+}
+
+.snd_section{
+
+	border: 2px solid black;
+	height: 400px;
+	width: 50%;
+
+}
+.extra{
+
+	display: inline-block;
+	margin-left: 54px;
+	margin-top: 20px;
+}
+
+.img_box{
+
+	border: 2px solid black;
+	height: 200px;
+	width:15%;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+
+.list{
+
+	border: 2px solid black;
+	width: 30%;
+	text-align: center;
+	height: 300px;
+	display: inline-block;
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.img_box img{
+
+	width: 100%;
+	height: 200px;
+}
+
+body{
+	background: black;
+
+	color: white;
+}
+h1{
+	text-align: center;
+}
+#btn{
+
+	position: relative;
+	left:300px ;
+	top: 30px;
+	border: none;
+	box-shadow: 0px 0px 5px 3px skyblue;
+	background:yellow;
+	font-weight: 700;
+	padding: 16px 40px 16px 40px;
+	margin-left: 260px;
+	cursor: pointer;
+}
+
+ ol li{
+ 	display: block;
+ }
+ hr{
+ 	width: 10%;
+ }
+
+ .footer{
+
+ 	 
+ 	height: 600px;
+ 	width: 100%;
+ 	background-image: url('19.jpg');
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ }
+ .N{
+ 		color: blue;
+ 		font-size: 50px;
+ 		margin-top: 40px;
+ 		margin-left: 10px;
+ 		font-weight: 900;
+ }
+
+ .I{
+ 	color: red;
+ 	font-size: 50px;
+ 	margin-top: 40px;
+ 	margin-left: 10px;
+ 	font-weight: 900;
+ }
+
+ .K{
+
+ 	color: yellow;
+ 	font-size: 50px;
+ 	margin-top: 40px;
+ 	margin-left: 10px;
+ 	font-weight: 900;
+ }
+
+ .O{
+ 	color: white;
+ 	font-size: 50px;
+ 	margin-top: 40px;
+ 	margin-left: 10px;
+ 	font-weight: 900;
+
+ }
+
+ .N{
+ 	color: gold;
+ 	font-size: 50px;
+ 	margin-top: 40px;
+ 	margin-left: 10px;
+ 	font-weight: 900;
+
+ }
+ #logo{
+ 	margin-left: 490px;
+ 	margin-top: 100px;
+ }
+ big{
+ 	font-size: 30px;
+ 	line-height: 50px;
+ }
+ .btn1{
+
+ 	
+ 	border: none;
+	box-shadow: 0px 0px 5px 3px skyblue;
+	background:gold;
+	font-weight: 700;
+	padding: 8px 13px 8px 13px;
+	margin-left: 10px;
+	cursor: pointer;
+ }
